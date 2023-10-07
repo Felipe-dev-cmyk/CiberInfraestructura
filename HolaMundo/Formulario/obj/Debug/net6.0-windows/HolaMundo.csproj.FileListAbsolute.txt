@@ -1,0 +1,16 @@
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\bin\Debug\net6.0-windows\HolaMundo.exe
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\bin\Debug\net6.0-windows\HolaMundo.deps.json
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\bin\Debug\net6.0-windows\HolaMundo.runtimeconfig.json
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\bin\Debug\net6.0-windows\HolaMundo.dll
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\bin\Debug\net6.0-windows\HolaMundo.pdb
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\obj\Debug\net6.0-windows\Formulario.Form1.resources
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\obj\Debug\net6.0-windows\HolaMundo.csproj.GenerateResource.cache
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\obj\Debug\net6.0-windows\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\obj\Debug\net6.0-windows\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\obj\Debug\net6.0-windows\HolaMundo.AssemblyInfo.cs
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\obj\Debug\net6.0-windows\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\obj\Debug\net6.0-windows\HolaMundo.dll
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\obj\Debug\net6.0-windows\refint\HolaMundo.dll
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\obj\Debug\net6.0-windows\HolaMundo.pdb
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\obj\Debug\net6.0-windows\HolaMundo.genruntimeconfig.cache
+C:\Users\Rogertrog\Desktop\Maestria\CiberInfraestructura\Formulario\Formulario\obj\Debug\net6.0-windows\ref\HolaMundo.dll
