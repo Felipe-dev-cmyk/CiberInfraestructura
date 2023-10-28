@@ -1,0 +1,15 @@
+Crear un proyecto ASP.NET Core Web API.
+Añadir los archivos del proyecto (reemplazar los existentes).
+Modificar las credenciales de la clave de conexion (puede arrojar un error por 'user' o 'username').
+Ejecutar proyecto.
+Realizar pruebas a través de postman.
+GET: https://localhost:PUERTO/api/catAlumno
+GET Parametrizado: https://localhost:PUERTO/api/catAlumno/ID
+Post: https://localhost:PUERTO/api/catAlumno
+Para la prueba post se debe realizar desde el apartado Body:Raw:
+Ejemplo:
+{
+  "nombre": "Prueba",
+  "edad": "99",
+  "apellido": "Prueba2"
+}
